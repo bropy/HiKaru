@@ -1,4 +1,4 @@
-package org.bropy.entity;
+package org.bropy.hikaru.entity;
 
 import jakarta.persistence.*;
 
